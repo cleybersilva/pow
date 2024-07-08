@@ -1,0 +1,14 @@
+C:\dotnet\fiap-block\pow\bin\Debug\net8.0\pow.exe
+C:\dotnet\fiap-block\pow\bin\Debug\net8.0\pow.deps.json
+C:\dotnet\fiap-block\pow\bin\Debug\net8.0\pow.runtimeconfig.json
+C:\dotnet\fiap-block\pow\bin\Debug\net8.0\pow.dll
+C:\dotnet\fiap-block\pow\bin\Debug\net8.0\pow.pdb
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\pow.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\pow.AssemblyInfoInputs.cache
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\pow.AssemblyInfo.cs
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\pow.csproj.CoreCompileInputs.cache
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\pow.dll
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\refint\pow.dll
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\pow.pdb
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\pow.genruntimeconfig.cache
+C:\dotnet\fiap-block\pow\obj\Debug\net8.0\ref\pow.dll
